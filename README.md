@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ethereum Mining with NVIDIA Graphics Cards and Ubuntu
 
 **USB** flash drive **ISO** image for **Ethereum** mining with **NVIDIA** graphics cards and Ubuntu **GNU/Linux** (64-bit Intel/AMD (x86_64)).
@@ -326,3 +327,7 @@ Six graphics cards work without problems.
 
 NVIDIA GeForce GTX 1050 Ti does not have Performance Level 3 (only Level 2) thus `nvidia-overclock.sh` has to be changed (change [3] with [2]).
 
+=======
+# MinerSetup
+Main files to Setup the first OS version of the WTmining operation 
+>>>>>>> 83ee1f1cc42caf91a880e4fb22e518f1f4614bc1
