@@ -6,7 +6,7 @@ else
    DELAY=$1
 fi
 sleep $DELAY
-cd /usr/local/claymore100/
+cd ~/
 sudo -c "screen -dmS ethm ./mine.sh"
 
 
